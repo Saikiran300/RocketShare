@@ -6,8 +6,4 @@ Features:
 - Mail system to share via email.
 - Clean UI
 
-Done by:
-- Kaushik Rishi
-- Bhavesh Kumar
-- Srineer Kaleri
-- Karthik Konyala
+
